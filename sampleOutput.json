@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Greg Kumparak",
+    "title": "The biggest news from CES 2022",
+    "description": "Be it virtual, in-person, or some mix of the two, CES is a beast. How could you keep up with all of the news flooding out of the show? You can’t, really. The big outlets each put a small army on CES coverage and only really scratch the surface. With that in m…",
+    "url": "https://techcrunch.com/2022/01/10/the-biggest-news-from-ces-2022/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/ces-2022-splash.jpg?w=711",
+    "publishedAt": "2022-01-10T20:51:04Z",
+    "content": "Be it virtual, in-person, or some mix of the two, CES is a beast. How could you keep up with all of the news flooding out of the show? You can’t, really. The big outlets each put a small army on CES … [+9960 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Haje Jan Kamps",
+    "title": "Be aware: Your company is watching you",
+    "description": "Call it the public service announcement to start off your year: If you’re working at a startup where IT is a little fuzzy, policies are evolving as the company is being built and the organization is evolving quickly, you’re at higher risk than usual that your…",
+    "url": "https://techcrunch.com/2022/01/10/who-watches-the-watchers/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg?w=711",
+    "publishedAt": "2022-01-10T20:29:07Z",
+    "content": "Call it the public service announcement to start off your year: If you’re working at a startup where IT is a little fuzzy, policies are evolving as the company is being built and the organization is … [+5613 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "GM finally agrees California can set vehicle emissions rules as it preps to scale EVs",
+    "description": "In what appears to be a politically and economically savvy move by General Motors, the automaker said Sunday it recognized California’s authority under the Clean Air Act to set its own vehicle emissions standards. GM previously backed the Trump administration…",
+    "url": "https://techcrunch.com/2022/01/10/gm-finally-agrees-california-can-set-vehicle-emissions-rules-as-it-preps-to-scale-evs/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-503703570.jpg?w=600",
+    "publishedAt": "2022-01-10T20:22:02Z",
+    "content": "In what appears to be a politically and economically savvy move by General Motors, the automaker said Sunday it recognized California’s authority under the Clean Air Act to set its own vehicle emissi… [+3199 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "How the mobile app ecosystem adapted to the Covid-19 pandemic in 2021",
+    "description": "The Covid-19 pandemic continues to impact the mobile app ecosystem, according to an annual retrospective released today by app intelligence firm Sensor Tower. In the early days of the pandemic, a number of apps saw rapidly increased usage — like that focused …",
+    "url": "https://techcrunch.com/2022/01/10/how-the-mobile-app-ecosystem-adapted-to-the-covid-19-pandemic-in-2021/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/apple-app-store-ios-2021.jpg?w=712",
+    "publishedAt": "2022-01-10T20:10:44Z",
+    "content": "The Covid-19 pandemic continues to impact the mobile app ecosystem, according to an annual retrospective released today by app intelligence firm Sensor Tower. In the early days of the pandemic, a num… [+4245 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Amanda Silberling",
+    "title": "Netflix's 'Hype House' shows the dark side of the creator economy",
+    "description": "We used to describe celebrities like Kim Kardashian and Paris Hilton as “famous for being famous.” But the TikTok megastars featured on the Netflix docu-soap “Hype House” are famous for being ordinary. Unlike the wealthy offspring of celebrities, this class o…",
+    "url": "https://techcrunch.com/2022/01/10/hype-house-creator-economy-netflix/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/slack-imgs.jpg?w=758",
+    "publishedAt": "2022-01-10T19:18:36Z",
+    "content": "We used to describe celebrities like Kim Kardashian and Paris Hilton as famous for being famous. But the TikTok megastars featured on the Netflix docu-soap Hype House are famous for being ordinary. U… [+8997 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Connie Loizos",
+    "title": "With funding from top investors, Gameto is aiming to delay -- even eradicate -- menopause",
+    "description": "With every year, more scientists and academics are very specifically trying to lengthen the lifespan of humans and ensure that those extra years are worth living. Some of these teams are focused on detecting cancer earlier as a means of extending longevity; s…",
+    "url": "https://techcrunch.com/2022/01/10/with-funding-from-top-investors-gameto-is-aiming-to-delay-even-eradicate-menopause/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-10-at-10.26.31-AM.png?w=607",
+    "publishedAt": "2022-01-10T18:31:12Z",
+    "content": "With every year, more scientists and academics are very specifically trying to lengthen the lifespan of humans and ensure that those extra years are worth living. Some of these teams are focused on d… [+4070 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "Y Combinator will now invest $500,000 in accelerator companies",
+    "description": "Startup accelerator Y Combinator announced this morning that it has updated its terms, providing participating companies with more total cash. The group will now invest $500,000 in batch startups. The money comes in two different forms. The first is the well-…",
+    "url": "https://techcrunch.com/2022/01/10/y-combinator-will-now-invest-500000-in-accelerator-companies/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?w=712",
+    "publishedAt": "2022-01-10T18:28:15Z",
+    "content": "Startup accelerator Y Combinator announced this morning that it has updated its terms, providing participating companies with more total cash. The group will now invest $500,000 in batch startups.\r\nT… [+2000 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Career Karma lands $40M to evolve into an edtech employee benefit",
+    "description": "Career Karma raised its first millions off of a pitch that resonates with anyone who has ever googled coding bootcamps: a navigation tool for aspiring students and working professionals. Instead of creating its own curriculum, Career Karma helps students find…",
+    "url": "https://techcrunch.com/2022/01/10/career-karma-lands-40-million-to-evolve-into-a-edtech-employee-benefit/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1142274453.jpg?w=527",
+    "publishedAt": "2022-01-10T18:00:44Z",
+    "content": "Career Karma raised its first millions off of a pitch that resonates with anyone who has ever googled coding bootcamps: a navigation tool for aspiring students and working professionals. Instead of c… [+3124 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Carly Page",
+    "title": "Panasonic says hackers accessed personal data of job candidates",
+    "description": "Hackers maintained access to Panasonic's systems for five months.",
+    "url": "https://techcrunch.com/2022/01/10/panasonic-breach-data-stolen/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-868477212.jpg?w=636",
+    "publishedAt": "2022-01-10T17:36:34Z",
+    "content": "Japanese tech giant Panasonic has confirmed that hackers accessed personal information belonging to job candidates and interns during a November cyberattack.\r\nAt the time of the data breach, which th… [+1695 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "Is cell-cultured meat ready for prime time?",
+    "description": "Cell-cultured meat is a hot topic, yet the process for producing meat in this manner remains slow and costly.",
+    "url": "https://techcrunch.com/2022/01/10/is-cell-cultured-meat-ready-for-prime-time/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/cell-cultivated-meat.jpg?w=711",
+    "publishedAt": "2022-01-10T16:30:47Z",
+    "content": "Meat has been part of the human diet since before we found fire, but it’s becoming increasingly apparent that the production of meat at scale is more of a detriment to the environment and the world t… [+3664 chars]"
+    }
+    ]
+    }
